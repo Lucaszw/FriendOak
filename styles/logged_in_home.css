@@ -1,0 +1,15 @@
+#logged_in_header_top_right {
+	margin-top: 10px;
+	margin-right: 20px;
+}
+#header_username {
+	margin-left: 14px;
+	font-size: 18px;
+}
+
+.login_header_icon {
+	border: 1px solid white;
+	box-shadow: 0px 0px 1px grey;
+	height:80px;
+	float:left;
+}
